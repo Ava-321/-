@@ -1,0 +1,52 @@
+<!--pages/food1/food1.wxml-->
+<!-- 轮播图 -->
+<swiper class="t-swiper" indicator-dots="true" 	indicator-color="white" 	indicator-active-color="#C20C0C" 	autoplay="true" interval="3000" 	circular="true">
+  <swiper-item>
+  <!-- <video src="https://jvod.300hu.com/vod/product/5e03a959-ce4f-46a8-9602-d95fb969aa86/edc75d3970d0411c9c29275e6dc53ff9.mp4?source=2&h265=h265/19366/1c496a5c4d884f56a844f9298a92542f.mp4"/> -->
+</swiper-item>
+<swiper-item>
+<image src="https://img13.360buyimg.com/n7/jfs/t1/179810/34/30953/139779/63d93b12Fb5ad70a4/50b7a655ed7d85d7.jpg" mode=""/>
+</swiper-item>
+<swiper-item>
+<image src="https://img13.360buyimg.com/n7/jfs/t1/200998/20/29864/168870/63d87090Fe81143a2/f6a489eff020f5a2.jpg" mode=""/>
+</swiper-item>
+<swiper-item>
+<image src="https://img12.360buyimg.com/n7/jfs/t1/119090/26/34284/120225/63d93facF91a13051/d14d3d1d0287e085.jpg" mode=""/>
+</swiper-item>
+</swiper>
+
+<!--产品详细信息 -->
+<view class="center">
+<view class="{{current===0?'active':''}}"bindtap="handleActive" data-index="{{0}}">商品详情 </view>
+<view class="{{current===1?'active':''}}"bindtap="handleActive" data-index="{{1}}">用户评价 </view>
+</view>
+<!-- 商品详情 -->
+<view wx:if="{{current===0}}">
+<image wx:for="{{info.message}}" wx:key="index" src="{{item}}" mode="widthFix" style="width:100% "/>
+</view>
+<!-- 用户评价 -->
+<view wx:else>
+  <view wx:for="{{commentList}}" wx:key="index" style="border-bottom:5rpx solid gray;">
+
+      <view class="user">
+          <image src="{{item.userImageUrl}}" class="left" mode="widthFix"/>
+          <view class="left">{{item.nickname}}</view>
+          <view class="right">{{item.creationTime}}</view>
+      </view>
+      
+      <view class="content">{{item.content}}</view>
+      <view class="content"><image src="{{item.imgUrl}}" mode="widthFix"/></view>
+  </view>
+</view>
+
+
+
+
+<view class="bottom">
+  <button style="background:#ffd591;" bindtap="toCar">跳转至购物车</button>
+  <button style="background: #f76260;"bindtap="addCar">添加至购物车</button>
+  
+</view>
+
+
+

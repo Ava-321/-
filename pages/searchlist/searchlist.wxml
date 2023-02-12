@@ -1,0 +1,10 @@
+<!--pages/searchlist/searchlist.wxml-->
+<view class="goodcontainer">
+<view wx:for="{{goodlist}}" wx:key="index" class="good"
+ data-id="{{item.id}}" data-name="{{item.title}}" bindtap="handleTap">
+  <image src="{{item.url}}" mode="widthFix"/>
+  <view class="name">{{item.name}}</view>
+  <view style="color: red;">{{item.price}}</view>
+  <view>好评指数:{{item.score}}</view>
+</view>
+</view>

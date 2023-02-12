@@ -1,0 +1,67 @@
+<!--pages/home/home.wxml-->
+
+<!--home/home.wxml-->
+<view>
+<!-- 轮播图 -->
+  <view>
+<swiper class="t-swiper" indicator-dots="true" 	indicator-color="white" 	indicator-active-color="#C20C0C" 	autoplay="true" interval="3000" 	circular="true">
+<block wx:for="{{imagelist}}" wx:for-item="s">
+  <swiper-item>
+  <image src="{{s}}" mode=""/>
+</swiper-item>
+</block>
+</swiper>
+</view>
+
+<!-- 导航彩单 -->
+<view class="content">
+  <view class="box">
+  <text class="iconfont .icon-yinliao:before" bindtap=""></text>
+   <text> 饮料</text>
+  </view>
+  <view class="box">
+  <text class="iconfont .icon-lingshi:before" bindtap=""></text>
+  <text>零食</text>
+  </view>
+  <view class="box">
+  <text class="iconfont .icon-riyongpin:before" bindtap=""></text>
+   <text>日用品</text>
+  </view>
+  <view class="box">
+  <text class="iconfont .icon-wenju:before"></text>
+   <text>文具</text>
+  </view>
+</view>
+
+<view class="search" >
+<input placeholder="点击搜索"  bindtap="handleEvent"/>
+</view>
+    
+<!-- 热卖产品 -->
+<view class="top">
+<text class="hot">热卖产品</text>
+<view class="wrap">
+<view bindtap="handlechangepage" 
+data-id="{{item.id}}"
+data-name="{{item.name}}"
+class="product" wx:for="{{productList}}" 
+wx:key="{{index}}">
+<image src="{{item.url}}" mode="widthFix"></image>
+<view class="info">
+  <text class="price">{{item.price}}</text> 
+  <text class="name">{{item.name}}</text>
+
+</view>
+</view>
+</view> 
+</view> 
+
+
+
+
+
+</view>
+
+
+
+  

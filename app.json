@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/mine/mine",
+    "pages/cart/cart",
+    "pages/new/new",
+    "info/food1/food1",
+    "pages/auth/auth",
+    "pages/telform/telform",
+    "pages/search/search",
+    "pages/searchlist/searchlist"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFCC22",
+    "navigationBarTitleText": "超市",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "img/home.png",
+        "selectedIconPath": "img/home-active.png"
+      },
+      {
+        "pagePath": "pages/new/new",
+        "text": "新品",
+        "iconPath": "img/home.png",
+        "selectedIconPath": "img/home-active.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "img/tab-cate.png",
+        "selectedIconPath": "img/tab-cate-current.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "img/center.png",
+        "selectedIconPath": "img/center-active.png"
+      }
+    ]
+  },
+  "useExtendedLib": {
+    "kbone": true,
+    "weui": true
+  }
+}

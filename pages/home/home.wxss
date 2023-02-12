@@ -1,0 +1,95 @@
+/* pages/home/home.wxss */
+.t-swiper{
+  width: 100%;
+  height: 300rpx;
+}
+.t-swiper image{
+  width:100% ;
+  height: 100%;
+
+}
+
+/* 导航的样式 */
+.content{
+  /* 响应式布局  flex*/
+  display: flex;
+  padding: 15rpx;
+  background-color:oldlace;
+  
+}
+.box{
+  display: flex;
+  flex-direction: column;/*纵向排列*/
+  align-items: center;/*纵向居中*/
+  width: 25%;
+}
+/*给图标设置样式*/
+.box .iconfont{
+  width: 100rpx;
+  height: 100rpx;
+  border: 1px solid black;
+  border-radius: 50%;
+  line-height: 100rpx;
+  text-align: center;
+  background-color: pink;
+  color: white;
+  font-size: 50rpx;
+  margin: 2rpx 0rpx;
+}
+.box text{
+  font-size: 30rpx;
+}
+.top{
+  padding: 35rpx;
+}
+
+.search input{
+  border: 1rpx black solid;
+  height: 100rpx;
+
+}
+
+/* 热卖产品  */
+.hot {
+  margin-left: 35%;
+  font-size: 45rpx;
+}
+.wrap{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+.wrap .product{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 46%;
+  margin: 0 10rpx;
+
+}
+.product image{
+  width: 100%;
+}
+.info{
+margin-top: 15rpx;
+margin-bottom: 25rpx;
+}
+ .price{
+  color:red; 
+}
+.name{
+  font-size: 28rpx;
+  padding-left: 10rpx; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  /* 设置对齐模式 */
+  -webkit-box-orient: vertical; /*设置对其模式*/
+  -webkit-line-clamp: 2;/*设置多行的行数*/
+  background-color: pink;
+  color: gray;
+  
+ 
+}

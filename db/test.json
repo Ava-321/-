@@ -1,0 +1,646 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "title": "坚果",
+      "name": "良品铺子 年货礼盒纯坚果礼盒2056g坚果炒货干果过年礼盒零食大礼包",
+      "url": "https://img12.360buyimg.com/n2/jfs/t1/94680/13/36990/261016/63e05f21F40233790/2c7cca9d6d711b5a.jpg",
+      "price": "188.00",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/703/13/20204/73374/63c4b3b7Fa34856cc/30baceb377a7e2ae.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/218505/30/23060/199949/63c4b3b7Fe1772bd0/fd3f4adc3becb3b6.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/166672/15/34638/94628/63c4b3b7F13178942/015c98a28eb42a2d.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/121093/20/33825/153780/63c4b3b7F51bfe99f/7a4ecfb27472290c.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/137525/16/28807/108553/63c4b3b7F5b5df913/9305aea494287579.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/178699/23/32310/160887/63c4b3b7Fb44bd4fa/5dcf6267c6d50285.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/100270/37/37206/144439/63c4b3b7Fe8bede0c/ab5c22f8c8c34029.jpg"
+      ],
+      "content": [
+        "好吃不贵"
+      ],
+      "creationTime": [
+        "2023/5/19"
+      ],
+      "score": [
+        "☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://www.qqkw.com/d/file/p/2022/04-18/40de75b32a719e87295a22a66b3df31f.jpg"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/190256/24/31682/323816/63cb86baFcdcd76b4/e8b239211590ca72.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "title": "猪肉铺",
+      "name": "良品铺子 猪肉脯片芝麻味休闲零食肉类零食猪肉脯网红追剧小吃100g",
+      "url": "https://img14.360buyimg.com/n7/jfs/t1/73344/25/22690/201069/63d9c139Fbd6d393f/0638d5b0f90c2d0c.jpg",
+      "price": "16.90",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/88130/27/29210/84995/62ff4adaE088a9931/6aa016966b75c3d1.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/191840/18/26892/283252/62d289b6E11a15af4/e02abaf88654cb43.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/218679/39/19579/247123/62d289b6E1953875b/449d0d2b1d54cd99.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/114265/15/25206/339218/62d289b6E0c8c49a8/81c303168d15ba07.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/2047/21/18274/203184/62d289b6E69061692/36f456cf45d2a96e.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/62370/26/19938/165264/62d289b6E372ffdce/24f68c6895b1c2fb.jpg"
+      ],
+      "content": [
+        "好吃不贵"
+      ],
+      "creationTime": [
+        "2023/5/29"
+      ],
+      "score": [
+        "☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://www.qqkw.com/d/file/p/2022/04-20/97e137f560f8fd6ea63bf4ca986760a5.jpg"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/131623/8/31831/137945/63a43010E0b359659/54a951d1bc233af8.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "title": "牛肉干",
+      "name": "良品铺子 麻辣牛肉牛肉干四川特产网红零食即食牛肉麻辣味108g",
+      "url": "https://img13.360buyimg.com/n2/jfs/t1/122060/11/31662/178448/63d93b8aF4a245384/3460a83c469d231b.jpg",
+      "price": "24.90",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/191432/27/27392/415448/62f0adceE3627d465/bc75eb6ce8007a27.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/210883/39/25562/255597/62f0adceE78fc2c4c/723382fec1a4633c.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/77422/22/21417/311536/62f0adceEd8a918b0/a07b218eb61a8132.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/197909/21/25750/235105/62f0adceE1f210271/9e6b1e0fe631f70e.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/108571/30/25696/286181/62f0adceE057d2889/6bb8ba34b2d77af8.jpg ",
+        "https://img30.360buyimg.com/sku/jfs/t1/162353/36/29271/334656/62f0adceE7c1084bc/025868957bbd9da7.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/203442/9/23922/221464/62f0adceEada254a8/22da87dae0556758.jpg"
+      ],
+      "content": [
+        "好吃不贵"
+      ],
+      "creationTime": [
+        "2023/5/12"
+      ],
+      "score": [
+        "☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://www.qqkw.com/d/file/p/2022/04-18/89fda35993fdaaab94dbe4763809a844.jpg"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/142835/21/23731/162508/619638bdE0f6c896f/90ed4ee24cb629e9.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "title": "手撕面包",
+      "name": "良品铺子手撕面包2斤装 量贩早餐小面包代餐休闲零食办公室点心整箱装礼盒",
+      "url": "https://img10.360buyimg.com/n7/jfs/t1/68428/24/20645/172109/63da5456F3393acf4/5d3215f1932c12d6.jpg",
+      "price": "22.90",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/30052/37/19885/237195/63787416Efffc44b7/afb5bcbeea6f548f.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/198391/27/30001/79897/63787414E191f7875/c4727e2d9f0e0d5c.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/171833/29/31846/215888/63787416E8934ad67/f5b7784b89f2f96a.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/11189/5/19841/174981/63787415E704d9a87/fc3cb8ac5ac0b376.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/195150/16/31069/269783/63787416Effc9fb2a/8980d504825fc9df.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/2014/14/16937/257374/63787416E3a537066/930f963a103bd9b3.jpg"
+      ],
+      "content": [
+        "好吃不贵"
+      ],
+      "creationTime": [
+        "2023/5/15"
+      ],
+      "score": [
+        "☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://www.qqkw.com/d/file/p/2022/04-11/418257b2cad430919b3e9496900e5f72.jpg"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/205335/30/10759/171591/61653a43Eece986dc/19662b7d7c18735d.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "title": "肥皂盒",
+      "name": "JAJALIN 肥皂盒皂碟香皂架子肥皂架双层沥水香皂盒子家用大号 蓝色1只装",
+      "url": "https://img14.360buyimg.com/n7/jfs/t1/196695/11/23253/302611/62500a7aEbbe12933/0faafc816642ca67.jpg",
+      "price": "2.80 ",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/128148/21/24069/170370/62271dc5Eb7a332dd/e9b2903d47eec4e4.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/113996/35/22733/153863/62271dc5E93937b04/52a99112170c8d71.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/217324/20/14161/115222/62271dc5Ed9eaff40/42b2d32cda200be5.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/220855/34/14087/105440/62271dc5E3d5dd824/19af5a19821182c4.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/88290/31/20183/144421/62271dc5E803f2ae5/fe716ee9988bb4c4.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/146888/2/21617/66598/62271dc5E3dbb4b84/c9a0c6662614ecaf.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/127404/12/24075/110784/62271dc5E89505cf3/7f130017dbd70f64.jpg"
+      ],
+      "content": [
+        "物美价廉"
+      ],
+      "creationTime": [
+        "2023/5/29"
+      ],
+      "score": [
+        "☆☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://pic1.zhimg.com/80/v2-e038155724444fd5f8e58df9032c03b7_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/136153/32/25765/48015/639be5b4E79475722/dbc39fa938c7316f.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "categoryId": 2,
+      "title": "刷牙杯",
+      "name": "加品惠抗菌漱口杯家用刷牙杯子情侣牙刷杯牙缸洗漱杯简约白1只装YS-2201",
+      "url": "https://img14.360buyimg.com/n2/jfs/t1/137421/36/18723/86105/618288b0Ec0cc464a/93b5f906a57a9310.jpg",
+      "price": "10.90 ",
+      "message": [
+        "https://img10.360buyimg.com/imgzone/jfs/t1/135874/1/21910/66820/618288c0E1c254f3e/e58bc6a467f01eea.jpg",
+        "https://img30.360buyimg.com/popWareDetail/jfs/t1/118268/7/1692/36764/5e9abb69Ef03b4281/68007ca7550b4244.jpg",
+        "https://img10.360buyimg.com/imgzone/jfs/t1/221475/6/1187/56567/618288bfE30a59b14/bd84a16bac8a6faf.jpg",
+        "https://img10.360buyimg.com/imgzone/jfs/t1/173736/6/25247/31807/618288bbE13e08b08/c29342c77ec2bdcb.jpg",
+        "https://img30.360buyimg.com/popWareDetail/jfs/t1/90388/5/18931/106985/5e9abb6aE4ff5f25c/e675ab0474ebaf93.jpg",
+        "https://img30.360buyimg.com/popWareDetail/jfs/t1/111468/7/1714/58193/5e9abb6aEa8f82d3d/00d05c4ba684f663.jpg"
+      ],
+      "content": [
+        "不好用"
+      ],
+      "creationTime": [
+        "2023/5/13"
+      ],
+      "score": [
+        "☆☆"
+      ],
+      "userImageUrl": [
+        "https://picx.zhimg.com/80/v2-e98316fd5d3c0d0438fa56d2e6dad81f_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/8300/10/17288/29026/62ba9101E532a1d30/51df9d189810e29c.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "title": "指甲刀",
+      "name": "达日美指甲刀两只装甲沟炎专用指甲剪斜口平口大号成人修甲工具包指甲锉",
+      "url": "https://img12.360buyimg.com/n7/jfs/t1/130606/31/28198/80190/6364b71eE2a116272/1dae1081a870e677.jpg",
+      "price": "19.90 ",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/92700/26/31902/33931/63638dbdEaa62cc2e/1038c53deb5330af.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/180193/14/29311/55728/63638dbeE13a378ee/ea01a2fb13f200bc.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/193297/16/30288/64416/63638dbeEfc15949f/f2e06b202bf2a97d.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/6320/35/26033/25979/63638dbdE672f1b85/f1ba09a1e68349f6.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/80683/21/18126/35828/6385c30fE5e58323f/9d537ac12d3af309.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/133832/11/28002/58951/63638dbeEdb736c88/564632282767100b.jpg"
+      ],
+      "content": [
+        "很差"
+      ],
+      "creationTime": [
+        "2023/5/21"
+      ],
+      "score": [
+        "☆"
+      ],
+      "userImageUrl": [
+        "https://picx.zhimg.com/80/v2-3ea44590ad53781f2973c9077be37953_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/126216/8/15879/273120/5f9226b5E8e939a68/a44cbc4e82be5cd7.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "categoryId": 2,
+      "title": "挖耳勺",
+      "name": "艾杰普 挖耳勺螺旋弹簧掏耳勺便携采耳工具套装掏耳朵神器掏耳棒 【6件套-抹茶绿】",
+      "url": "https://img13.360buyimg.com/n7/jfs/t1/48834/33/19968/173689/62baeee4E6e764243/da8351e6b88a01ec.jpg",
+      "price": "9.90 ",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/129741/30/27051/967255/625e1fe1E8917d574/e3931e609898a6f4.png",
+        "https://img30.360buyimg.com/sku/jfs/t1/223752/4/9717/739978/625e1f34E2ceead54/d45e9e3f8e5799bf.png",
+        "https://img30.360buyimg.com/sku/jfs/t1/177365/36/22933/246309/625e1f33Ee1e55f2f/f705cec04c6593b7.png",
+        "https://img30.360buyimg.com/sku/jfs/t1/148466/16/27075/174539/625e1f33E2b65f669/5018a9f932a6ee18.png",
+        "https://img30.360buyimg.com/sku/jfs/t1/185275/11/23680/91374/625e1f33Ed56ff67a/96647095b8c30219.png",
+        "https://img30.360buyimg.com/sku/jfs/t1/184139/20/23405/119513/625e1f33E7382738d/1cb66ee38b387593.png"
+      ],
+      "content": [
+        "便宜"
+      ],
+      "creationTime": [
+        "2023/5/11"
+      ],
+      "score": [
+        "☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://pica.zhimg.com/80/v2-5e0d02596f6ce0e27cec5f997fa58717_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/221823/32/12148/109722/6222d76fEf98cc2a2/ee3e52384a8abc45.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "categoryId": 3,
+      "title": "维他奶",
+      "name": "维他奶维他经典柠檬茶饮料250ml*24盒 柠檬味整箱装 家庭聚会 分享装",
+      "url": "https://img12.360buyimg.com/n7/jfs/t1/57938/9/21279/121069/63db678cF198ebba2/e0b9e18e7c4c0c1b.jpg",
+      "price": "55.80",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/177075/8/16658/421760/6108fb45E3956cdb0/1d93b19dbcc4bc8a.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/185330/9/17293/393228/6108fb45E1b0d8ee9/d3c8670549926d41.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/184834/14/17594/385437/6108fb45E2bdf3f12/fb58d6e7b8466da4.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/195389/37/16501/412399/6108fb45Ec88a71c1/978386cea99450cd.jpg"
+      ],
+      "content": [
+        "好喝"
+      ],
+      "creationTime": [
+        "2023/5/12"
+      ],
+      "score": [
+        "☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://picx.zhimg.com/80/v2-5045d5eb0f77e3adbe2df6091f23528d_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/93103/1/11056/93949/5e295ac4Ea8b0ea48/b6543dbfafffe03e.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "categoryId": 3,
+      "title": "可口可乐",
+      "name": "可口可乐Coca-Cola 零度 汽水饮料 330ml*24罐摩登罐 新老包装随机发货",
+      "url": "https://img12.360buyimg.com/n7/jfs/t1/95824/34/35256/64372/63aed0cdF068dcf07/929090450b1390a9.jpg",
+      "price": "47.00",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/105398/29/36191/300116/63aed35fFea4df84e/5cc6a6fbdc0f9f96.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/60552/16/23192/326774/63aed35fFacbd5352/8323690433ba4cf0.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/68587/25/23418/290102/63aed361Fa77f8ec6/7871451cb3d40294.jpg"
+      ],
+      "content": [
+        "神中神"
+      ],
+      "creationTime": [
+        "2023/5/1"
+      ],
+      "score": [
+        "☆☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://picx.zhimg.com/80/v2-252d25dbae37d210f3e412da1bd33330_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/110443/4/18389/141314/614a8816E15ab433c/3b681ec20f1a0019.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "title": "椰汁",
+      "name": "椰谷 鲜椰汁 245g*12支装",
+      "url": "https://img12.360buyimg.com/n7/jfs/t1/127572/25/3004/260651/5ecb891fE3395ead2/e2bdd89cf13d48f7.jpg",
+      "price": "38.10",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/117978/32/3755/591628/5eaa3987E18f7c246/eef55e7ee79f37f4.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/112355/20/3739/202887/5eaa3987E5c16b0d0/6bc6762ecf770418.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/116111/31/3738/603503/5eaa3988E0aa37ca7/6171ddd0e356d1e1.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/116575/35/3839/338006/5eaa3988Ef56ada35/98944c0514f2bb4f.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/117903/12/3871/324592/5eaa3988E1b55a795/69f9c6191ddd9e45.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/110968/20/3794/409024/5eaa3987E44e5f009/c52fa39cbf6be8fc.jpg"
+      ],
+      "content": [
+        "不喜欢"
+      ],
+      "creationTime": [
+        "2023/5/2"
+      ],
+      "score": [
+        "☆☆"
+      ],
+      "userImageUrl": [
+        "https://pic1.zhimg.com/80/v2-5b7cbcae25096502ada5b9d854b5ea7f_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/196495/19/27160/59807/62da11c0Ee6993bae/fb0b3206063eec2e.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "title": "冰红茶",
+      "name": "康师傅 冰红茶330ml*12瓶 柠檬红茶饮料饮品轻巧装整箱 王一博同款",
+      "url": "https://img11.360buyimg.com/n7/jfs/t1/22349/15/25043/109825/63b92828F99fa3727/1398f020f7bf1210.jpg",
+      "price": "18.50",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/120483/16/25825/912291/624fa217E52df7e10/58d1d2323e2be26f.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/140895/14/25481/387905/61d5750dE6516a46e/9d24d9c5409fff07.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/211730/36/10152/795216/61d57c61E8840a43b/53596068d89bc881.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/106063/35/20555/856872/61d57c61Ea4ffed16/be95dca2b900ba77.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/147571/3/25632/748970/61d5750eE3bc4b7c7/074485722bfa6d7b.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/58623/35/17926/504712/627db80bE44597277/a39622525d980004.jpg"
+      ],
+      "content": [
+        "经典味道"
+      ],
+      "creationTime": [
+        "2023/5/4"
+      ],
+      "score": [
+        "☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://picx.zhimg.com/80/v2-f0af01385754f4988787894234334990_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/218513/33/3008/124087/61822ce3E84a1e8f9/5f98dd8424d4b7d6.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "categoryId": 4,
+      "title": "数学本",
+      "name": "汉状元数学本16k小学生作业本初中软抄缝线笔记本子全套牛皮纸加厚练习本 【5本装】英语本",
+      "url": "https://img12.360buyimg.com/n7/jfs/t29494/302/1518126241/128495/965935f7/5ce3810cNbbe0e02c.jpg",
+      "price": "11.50 ",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/199471/25/8904/752421/61457f30E7ada9bff/9f3df6bf1b660430.jpg",
+        "https://img30.360buyimg.com/popWaterMark/jfs/t1/30164/1/15549/113084/5cc2b49cE5902a090/a7fd85b3eee80613.jpg",
+        "https://img30.360buyimg.com/popWaterMark/jfs/t1/41274/34/550/93280/5cc2b49cE0b884d96/0eae97624df1514d.jpg",
+        "https://img30.360buyimg.com/popWaterMark/jfs/t1/40496/15/566/138622/5cc2b49dEf37a1652/1f0b9e53bb2ed27c.jpg"
+      ],
+      "content": [
+        "好写"
+      ],
+      "creationTime": [
+        "2023/5/6"
+      ],
+      "score": [
+        "☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://pica.zhimg.com/80/v2-ca6a5149abba2f88b03b2b8170c85845_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/61826/40/2004/92264/5d03d281Ec361ae2b/9d6254bdb26aa882.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "categoryId": 4,
+      "title": "文具盒",
+      "name": "得力(deli)迷彩笔袋小学生 大容量双层袋鼠包文具盒 学生文具收纳袋 深蓝色 66764",
+      "url": "https://img13.360buyimg.com/n7/jfs/t1/16955/16/18423/121762/630888a9Ee4610d03/a1ccaeed583ba098.jpg",
+      "price": "24.90",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/201068/20/7202/548159/61457f2fE90a479ad/ff71d8571028e352.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/88097/16/18993/584926/61457f2fE8210568d/5f6f2b791ab13285.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/94419/30/18940/360159/61457f2fEcdd5e7fc/8c4e2021aa7f2b5e.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/205337/17/7141/742788/61457f30Eed03d7e3/9f2cfb9f1af0cc89.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/199471/25/8904/752421/61457f30E7ada9bff/9f3df6bf1b660430.jpg"
+      ],
+      "content": [
+        "质量很好"
+      ],
+      "creationTime": [
+        "2023/5/19"
+      ],
+      "score": [
+        "☆☆☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://picx.zhimg.com/80/v2-752fb23b649c1161c34a0a2c2f7d8471_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/169148/8/22374/107981/617260d4E812c5b23/7a5c8e104a3c552d.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "categoryId": 4,
+      "title": "中性笔",
+      "name": "晨光(M&G)文具黑色0.5mm学生中性笔 按动子弹头签字笔 金榜题名系列高颜值水笔 5支/盒AGPK35Y9",
+      "url": "https://img11.360buyimg.com/n7/jfs/t1/90646/25/31776/136824/635b8fbbE3a0920e0/05c01a78cafcb224.jpg",
+      "price": "18.80 ",
+      "message": [
+        "https://img30.360buyimg.com/sku/jfs/t1/180318/20/30018/642538/636cc4c1Ef186161f/0fe851cb67c44f1b.gif",
+        "https://img30.360buyimg.com/sku/jfs/t1/99280/22/21789/489330/6285bf65E509d0de6/fc8de82da61dcf4b.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/203732/18/13881/247841/6285bf63E1e00aef0/98203839daff579c.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/186007/35/24426/368895/6285bf65Eb56d2ce9/6886940daa36c6ed.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/192309/20/25406/572318/6285bf66E0c440620/f9241dda403262db.jpg",
+        "https://img30.360buyimg.com/sku/jfs/t1/50547/18/17955/451736/6285bf65Ea4c5ec3f/b0063079c4e248c5.jpg"
+      ],
+      "content": [
+        "不好用"
+      ],
+      "creationTime": [
+        "2023/5/15"
+      ],
+      "score": [
+        "☆"
+      ],
+      "userImageUrl": [
+        "https://picx.zhimg.com/80/v2-1e6555733a134aac7a555fc5874ef160_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/152892/37/27371/325208/62ff43f2E660d8174/e19559e2037136e7.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "categoryId": 4,
+      "title": "",
+      "name": "得力(deli)82只组合装彩色长尾夹/燕尾夹/票夹 中号+小号(25mm*12只+19mm*25只+15mm*45只) 办公用品 8521",
+      "url": "https://img14.360buyimg.com/n7/jfs/t1/60573/33/22055/81421/633579feE01a8bf3f/79f30e6ba71a9e63.jpg",
+      "price": "16.00 ",
+      "message": [
+        "https://img11.360buyimg.com/cms/jfs/t1/141381/31/13063/253781/5fa2630cE28a8d647/dc95786eeb228d97.jpg",
+        "https://img14.360buyimg.com/cms/jfs/t1/145016/24/13160/170062/5fa2630bEece3121e/11ac5d849ce52ad7.jpg",
+        "https://img13.360buyimg.com/cms/jfs/t1/121844/22/17481/339957/5fa2630cE2482512a/d510c22ac7fcca47.jpg",
+        "https://img13.360buyimg.com/cms/jfs/t1/121844/22/17481/339957/5fa2630cE2482512a/d510c22ac7fcca47.jpg",
+        "https://img11.360buyimg.com/cms/jfs/t1/121759/16/17603/237431/5fa2630cE097e8f7d/b4d41ddfb156e7ed.jpg"
+      ],
+      "content": [
+        "还行"
+      ],
+      "creationTime": [
+        "2023/5/23"
+      ],
+      "score": [
+        "☆☆☆"
+      ],
+      "userImageUrl": [
+        "https://pic1.zhimg.com/80/v2-5bca8dad5c7aab1cfb5f65767ab07423_720w.webp?source=1940ef5c"
+      ],
+      "nickname": [
+        "蔡徐坤"
+      ],
+      "imgUrl": [
+        "https://img30.360buyimg.com/shaidan/s616x405_jfs/t1/35533/30/17416/84867/62e39b8bE1e63cc88/37f0a4fe229c796b.jpg"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "零食",
+      "class": "零食"
+    },
+    {
+      "id": 2,
+      "title": "日用品",
+      "class": "日用品"
+    },
+    {
+      "id": 3,
+      "title": "饮料",
+      "class": "饮料"
+    },
+    {
+      "id": 4,
+      "title": "文具",
+      "class": "文具"
+    }
+  ],
+  "user": [
+    {
+      "nickName": "俞涛",
+      "gender": 1,
+      "language": "zh_CN",
+      "city": "wuhan",
+      "country": "China",
+      "tel": "12345678900",
+      "avatarUrl": "https://pica.zhimg.com/80/v2-234d99db69137224c0adc9c02fed8378_720w.webp?source=1940ef5c",
+      "id": 1
+    },
+    {
+      "nickName": "泉",
+      "gender": 0,
+      "language": "zh_CN",
+      "city": "",
+      "province": "",
+      "country": "",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/QXsjJ6a9S6IZacPhoShtGnEjibhZTbDlicjdetn6kibibGBewxLp19u9tqFBd6sUykEMvDK2ianhOzEkG2S3mACoZOQ/132",
+      "tel": "123456",
+      "id": 2
+    },
+    {
+      "nickName": "泉",
+      "gender": 0,
+      "language": "zh_CN",
+      "city": "",
+      "province": "",
+      "country": "",
+      "avatarUrl": "https://thirdwx.qlogo.cn/mmopen/vi_32/QXsjJ6a9S6IZacPhoShtGnEjibhZTbDlicjdetn6kibibGBewxLp19u9tqFBd6sUykEMvDK2ianhOzEkG2S3mACoZOQ/132",
+      "tel": "221133",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "username": "张三",
+      "tel": "123321",
+      "goodId": 1,
+      "number": 4,
+      "checked": false,
+      "id": 1
+    },
+    {
+      "tel": "123456",
+      "goodId": 4,
+      "number": 1,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "username": "泉",
+      "tel": "item..tel",
+      "goodId": 1,
+      "number": 1,
+      "checked": true,
+      "id": 3
+    },
+    {
+      "username": "泉",
+      "tel": "item..tel",
+      "goodId": 2,
+      "number": 1,
+      "checked": false,
+      "id": 4
+    },
+    {
+      "tel": "123456",
+      "goodId": 1,
+      "number": 1,
+      "checked": false,
+      "id": 5
+    },
+    {
+      "username": "泉",
+      "tel": "item..tel",
+      "goodId": 2,
+      "number": 1,
+      "checked": true,
+      "id": 6
+    }
+  ]
+}
